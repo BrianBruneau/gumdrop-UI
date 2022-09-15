@@ -1,10 +1,12 @@
 [
   {
-    "handle": "alice@solana.com",
-    "amount": 1500000000
+    "handle": "GGS2LbruWQDcZkwpU2uXGS6mgQ2hGP11yeKVKLYiuUo2",
+    "amount": 2,
+    "url": "https://gumdrop.metaplex.com//claim?distributor=B2gXnD3i4Lq211sBUUPG3PMvsEHn8XPqhWcmw9nwfJHN&method=wallets&handle=GGS2LbruWQDcZkwpU2uXGS6mgQ2hGP11yeKVKLYiuUo2&amount=2&index=0&proof=2pyqCFQCCfzJeZV9B4jSNSJB41dvoiaRiBbMWhBc42it&pin=NA&candy=AprSxCvWc6jQsRhPnAe6aVxZPuMFQYykGEn8msLuwkEB&tokenAcc=E8Gtb9ueUzNrTjBJrBCo7YWfs1oYqboAUN2teUdcmcbM"
   },
   {
-    "handle": "bob@solana.com",
-    "amount": 1500000000
+    "handle": "9d9n2zUYJscuvZuJRVYshd13SQ9QXJcmbskMaag6YneN",
+    "amount": 3,
+    "url": "https://gumdrop.metaplex.com//claim?distributor=B2gXnD3i4Lq211sBUUPG3PMvsEHn8XPqhWcmw9nwfJHN&method=wallets&handle=9d9n2zUYJscuvZuJRVYshd13SQ9QXJcmbskMaag6YneN&amount=3&index=1&proof=AHLx7Q6QKYMRdnSFRX5QFVRG2D1GHLbKf5rX1iPDehLQ&pin=NA&candy=AprSxCvWc6jQsRhPnAe6aVxZPuMFQYykGEn8msLuwkEB&tokenAcc=E8Gtb9ueUzNrTjBJrBCo7YWfs1oYqboAUN2teUdcmcbM"
   }
 ]
